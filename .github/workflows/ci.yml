@@ -41,7 +41,7 @@ jobs:
         # 自定义环境变量
         with:
           # 指定仓库：你要发布的仓库路径名
-          repository-name: HC1-16/blog_11001111
+          repository-name: HC1-16/blog11001111
           # 部署到 deploy-pages 分支，也就是部署后提交到那个分支
           branch: main
       
