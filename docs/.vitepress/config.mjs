@@ -6,6 +6,9 @@ export default defineConfig({
   base: /11001111-s-blog/,
   title:"11001111" ,
   description: "11001111的blog",
+  build:{
+    outDir: '../../docs/.vitepress/dist'
+  },
   enhanceApp({ app, router }) {
     router.afterEach((to) => {
       // 清除所有类

@@ -12,17 +12,17 @@ features:
   - icon: 📖
     title: 前端学习
     details: 一只前端菜鸟的学习笔记
-    link: "/blog/frontend/index.md"
+    link: "./docs/blog/frontend/index.md"
     target: _blank
   - icon:  💻
     title: 算法积累
     details: 一些算法心得
-    link: "/blog/algorithm/index.md"
+    link: "./docs/blog/algorithm/index.md"
     target: _blank
   - icon:  🌠	
     title: 个人摄影
     details: 11001111的摄影作品
-    link: "/blog/photo/index.md"
+    link: "./docs/blog/photo/index.md"
     target: _blank
 ---
 
